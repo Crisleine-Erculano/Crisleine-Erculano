@@ -1,2 +1,3 @@
 # Desafios-Github-Dio
-Config files for my GitHub profile.
+
+Exercício de soma de valores, utilizando html e javaScript.
