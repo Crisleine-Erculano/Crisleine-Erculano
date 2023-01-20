@@ -1,4 +1,4 @@
-### Hi there 👋, sou a Crileine Erculano Desenvolvedora Front End.
+### Hi there 👋, sou Crisleine  Erculano Desenvolvedora Front-end.
 - 🔭 Tenho formação em  Análise e Desenvolvimento de Sistemas.
 - Atualmente estou me especializante em  Front End.
 <div align="center">
